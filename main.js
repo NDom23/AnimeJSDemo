@@ -1,5 +1,5 @@
 var playPause = anime({
-    // Target the red box
+    // Target the boxes
     targets: 'div.box',
     translateY: [
 //        How far and for how long in milliseconds
