@@ -27,5 +27,3 @@ Basic Anime JS Demo
 
 
 
-
-Credits to Traversy Media Youtube Channel
